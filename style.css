@@ -1,3 +1,36 @@
+<<<<<<< HEAD
+<!DOCTYPE html">
+
+<html lang="fr">
+  <head>
+
+    <meta charset="utf-8" />
+    <title>Création d&#39>
+
+  </head>
+  
+  <body>
+    
+            <h1
+
+         id="header"><a href="#" title="Colored Design - Accueil"><span>Colored Design</span></a>
+  
+             </h1>
+    
+    <div id="contenu">
+      <h2>Un titre</h2>
+      <p>Un paragraphe</p>
+    </div>
+    
+    <p id="footer">Réalisation des codes HTML/CSS</p>
+
+  </div>
+
+
+  </body>
+
+</html>
+=======
 body{
     background: #67BE4B;
 }
@@ -45,3 +78,4 @@ input[type=submit]:hover {
     color: #53af57;
     border: 1px solid #53af57;
 }
+>>>>>>> 58c62f2dbdeba52be2a20fe315226300ac6037ee

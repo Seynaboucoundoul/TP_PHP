@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # Ignore Mac system files
 .DS_store
 
 # Ignore all text files
 *.txt
+=======
+nabou.html
+>>>>>>> aa6e4fa0a919990701bf761e1ada854363272f85

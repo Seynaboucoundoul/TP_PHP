@@ -4,20 +4,22 @@
 
     <head>
 
-      <meta charset="utf-8" />
+        <title> Ma page </title>
 
-        <title> Ma deuxième page </title>
+        <meta charset="utf-8">
 
     </head>
 
-	<body>
-              <p>
+    <body>
 
-            Bienvenue sur mon super site !<br />
-            Vous allez adorer ici.
+      <h1> Bienvenue </h1>
 
-             </p>
+        <?php
 
-       </body>
+            echo 'Bonjour à tous !<br>';
+            print 'Bonjour à tous !<br>';
 
+        ?>
+
+    </body>
 </html>
